@@ -1,3 +1,3 @@
 # Yap2Notes
 
-[click this](https://]yap2notes.vercel.app/)
+[click this](https://yap2notes.vercel.app/)
