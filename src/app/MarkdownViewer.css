@@ -1,0 +1,15 @@
+.markdown-viewer {
+    text-align: left;
+    max-width: 800px; /* Optional: To control the width of the content */
+    margin: 0 auto; /* Optional: To center the Markdown content container */
+    line-height: 1.6; /* Optional: Better readability */
+}
+
+.markdown-viewer h1,
+.markdown-viewer h2,
+.markdown-viewer h3,
+.markdown-viewer p,
+.markdown-viewer ul,
+.markdown-viewer code {
+    text-align: left;
+}
